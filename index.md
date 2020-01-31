@@ -2,11 +2,11 @@
 layout: default
 ---
 
-![](https://github.com/stankiewicz565/piggles.github.io/images/cutePig.jpg)
+![cutePig](https://github.com/stankiewicz565/piggles.github.io/blob/master/images/cutePig.jpg)
 
 # Also pig image
 
-![](https://github.com/stankiewicz565/piggles.github.io/images/pig.jpg)
+![pig](https://github.com/stankiewicz565/piggles.github.io/blob/master/images/pig.jpg)
 
 
 
