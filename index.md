@@ -25,9 +25,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ### Hope this works
 
-<div class="text-white bg-blue mb-2">
-  .text-white on .bg-blue
-</div>
+red text ! <p style="color:red">this part of which is red!</p>
 
 ```json
 {"aquamarine": [127, 255, 212, 1]}
