@@ -25,8 +25,6 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ### Hope this works
 
-red text ! <p style="color:red">this part of which is red!</p>
-
 
 ```js
 // Javascript code with syntax highlighting.
