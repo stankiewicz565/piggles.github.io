@@ -25,6 +25,15 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ### Hope this works
 
+<div class="text-white bg-blue mb-2">
+  .text-white on .bg-blue
+</div>
+
+```json
+{"aquamarine": [127, 255, 212, 1]}
+
+```
+
 ```js
 // Javascript code with syntax highlighting.
 var fun = function lang(l) {
@@ -40,7 +49,7 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-#### Header 4
+#### Trial by stone!
 
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
