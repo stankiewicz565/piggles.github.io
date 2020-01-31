@@ -6,7 +6,7 @@ layout: default
 
 # Also pig image
 
-![Pig](https://github.com/stankiewicz565/piggles.github.io/images/Pig.jpg)
+![Pig](https://github.com/stankiewicz565/piggles.github.io/images/pig.jpg)
 
 
 
