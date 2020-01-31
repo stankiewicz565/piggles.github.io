@@ -1,9 +1,14 @@
 ---
 layout: default
 ---
-### Large image
 
 ![cutePig](https://github.com/stankiewicz565/piggles.github.io/images/cutePig.jpg)
+
+# Also pig image
+
+![Pig](https://github.com/stankiewicz565/piggles.github.io/images/Pig.jpg)
+
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
