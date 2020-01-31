@@ -2,6 +2,8 @@
 layout: default
 ---
 
+
+# I dont undertand why the images wont load
 ![cutePig](https://github.com/stankiewicz565/piggles.github.io/blob/master/images/cutePig.jpg)
 
 # Also pig image
