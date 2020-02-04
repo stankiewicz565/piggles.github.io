@@ -6,7 +6,7 @@ layout: default
 # I dont undertand why the images wont load
 # this one just has tree/master/images as the path
 
-![cutePig](https://github.com/stankiewicz565/piggles.github.io/tree/master/images/cutePig.jpg)
+![cutePig](./cutePig.jpg)
 
 # Also pig image has the cap JPG
 
