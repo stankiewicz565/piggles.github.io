@@ -8,9 +8,9 @@ layout: default
 
 ![cutePig](https://github.com/stankiewicz565/piggles.github.io/tree/master/images/cutePig.jpg)
 
-# Also pig image
+# Also pig image has the cap JPG
 
-![pig](https://github.com/stankiewicz565/piggles.github.io/blob/master/images/pig.jpg)
+![pig](https://github.com/stankiewicz565/piggles.github.io/blob/master/images/pig.JPG)
 
 
 
