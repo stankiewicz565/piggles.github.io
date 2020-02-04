@@ -2,13 +2,10 @@
 layout: default
 ---
 
-
-# I dont undertand why the images wont load
-# this one just has tree/master/images as the path
-
+# for this image we are testing to see is /image/picturename will work
 ![cutePig](/images/cutePig.jpg)
 
-# Also pig image has the cap JPG
+# Also pig image\
 
 ![pig](./pig.jpg)
 
