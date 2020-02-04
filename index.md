@@ -4,9 +4,9 @@ layout: default
 
 
 # I dont undertand why the images wont load
-#this one just has images as the path
+# this one just has tree/master/images as the path
 
-![cutePig](https://github.com/stankiewicz565/piggles.github.io/images/cutePig.jpg)
+![cutePig](https://github.com/stankiewicz565/piggles.github.io/tree/master/images/cutePig.jpg)
 
 # Also pig image
 
