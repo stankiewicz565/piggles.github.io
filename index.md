@@ -10,7 +10,7 @@ layout: default
 
 # Also pig image has the cap JPG
 
-![pig](https://github.com/stankiewicz565/piggles.github.io/blob/master/images/pig.JPG)
+![pig](./pig.jpg)
 
 
 
