@@ -6,7 +6,7 @@ layout: default
 # I dont undertand why the images wont load
 # this one just has tree/master/images as the path
 
-![cutePig](./cutePig.jpg)
+![cutePig](/images/cutePig.jpg)
 
 # Also pig image has the cap JPG
 
