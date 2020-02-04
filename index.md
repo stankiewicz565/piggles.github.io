@@ -4,7 +4,9 @@ layout: default
 
 
 # I dont undertand why the images wont load
-![cutePig](https://github.com/stankiewicz565/piggles.github.io/blob/master/images/cutePig.jpg)
+#this one just has images as the path
+
+![cutePig](https://github.com/stankiewicz565/piggles.github.io/images/cutePig.jpg)
 
 # Also pig image
 
